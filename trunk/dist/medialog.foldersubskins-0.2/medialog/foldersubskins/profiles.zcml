@@ -1,0 +1,15 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="medialog.foldersubskins">
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Medialog Folder Subskins TEST product"
+      directory="profiles/default"
+      description='Product that makes it possible to have a lot of layouts on one site'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+
+</configure>

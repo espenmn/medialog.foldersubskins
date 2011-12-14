@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<site>
+ <property name="extracss" type="lines">
+  <element value="SubSkins_base_forl1.css"/>
+  <element value="SubSkins_top_arty.css"/>
+  <element value="SubSkins_text_arty.css"/>
+  <element value="SubSkins_globalnav_abit_round_32.css"/>
+  <element value="SubSkins_portlets_liquid.css"/>
+  <element value="SubSkins_navigation_34.css"/>
+  <element value="Plone_Calendar1256.css"/>
+  <element value="SubSkins_bottom.css"/>
+ </property>
+</site>

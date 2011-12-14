@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<object>
+ <order manager="plone.portaltop" skinname="subskins">
+  <viewlet name="subskinsloader"/>
+ </order>
+</object>

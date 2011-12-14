@@ -1,0 +1,4 @@
+<layers>
+    <layer name="medialog.foldersubskins"
+           interface="medialog.foldersubskins.interfaces.IFolderSubskinsLayer" />
+</layers>

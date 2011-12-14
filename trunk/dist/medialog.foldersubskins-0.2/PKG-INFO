@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: medialog.foldersubskins
+Version: 0.2
+Summary: Makes it possible to have different layout on different parts of a plone site.
+Home-page: http://medialog.no
+Author: Grieg Medialog [Espen Moe-Nilssen]
+Author-email: espen@medialog.no
+License: GPL
+Description: Changelog
+        =========
+        
+        This product adds a field to folders so you can define extra.css you want to load for content in that folder. Requires medialog.subskins 4.1b3 or higher and Products.PloneSubSkins 4.5
+        
+        0.1
+        ----------------------
+        First version
+        Changelog
+        =========
+        
+        See READNE,txt
+Keywords: plone zope subskins sector custom css
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
