@@ -2,11 +2,11 @@
 Changelog
 =========
 
-This product adds a field to folders so you can define **extra.css** you want to load for content in **that folder**. Requires medialog.subskins 4.1b3 or higher and Products.PloneSubSkins 4.5. You have to enable the subskinsloader viewlet by going to /@@manage-viewlets. Send a mail to espen at medialog dot no for help.
+This product adds a field to folders so you can define **extra.css** you want to load for content in **that folder**. Requires medialog.subskins 4.1b3 or higher and Products.PloneSubSkins >= 4.5. You have to enable the subskinsloader viewlet by going to /@@manage-viewlets. Send a mail to espen at medialog dot no for help.
 
-0.5
+0.4.1
 ----------------------
-Added ISiteRoot to schemaextender.
+A few typos
 
 0.4
 ----------------------

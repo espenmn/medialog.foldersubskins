@@ -17,10 +17,6 @@
 	factory=".schemaextender.ContentTypeExtender"
         provides="archetypes.schemaextender.interfaces.ISchemaExtender"
     /> 
-    <adapter name="SiteSubskins.Extender" 
-	factory=".schemaextender.SiteTypeExtender"
-        provides="archetypes.schemaextender.interfaces.ISchemaExtender"
-    /> 
  
    <genericsetup:registerProfile
       name="default"
